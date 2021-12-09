@@ -1,0 +1,7 @@
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\bin\Debug\Bankamatik_Otomasyon.exe.config
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\bin\Debug\Bankamatik_Otomasyon.exe
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\bin\Debug\Bankamatik_Otomasyon.pdb
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\obj\Debug\Bankamatik_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\obj\Debug\Bankamatik_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\obj\Debug\Bankamatik_Otomasyon.exe
+C:\Users\202\source\repos\Bankamatik_Otomasyon\Bankamatik_Otomasyon\obj\Debug\Bankamatik_Otomasyon.pdb
